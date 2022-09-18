@@ -1,0 +1,7 @@
+C:\Users\90545\Desktop\Short Veri Tipi\bin\Debug\Short Veri Tipi.exe.config
+C:\Users\90545\Desktop\Short Veri Tipi\bin\Debug\Short Veri Tipi.exe
+C:\Users\90545\Desktop\Short Veri Tipi\bin\Debug\Short Veri Tipi.pdb
+C:\Users\90545\Desktop\Short Veri Tipi\obj\Debug\Short Veri Tipi.csprojAssemblyReference.cache
+C:\Users\90545\Desktop\Short Veri Tipi\obj\Debug\Short Veri Tipi.csproj.CoreCompileInputs.cache
+C:\Users\90545\Desktop\Short Veri Tipi\obj\Debug\Short Veri Tipi.exe
+C:\Users\90545\Desktop\Short Veri Tipi\obj\Debug\Short Veri Tipi.pdb

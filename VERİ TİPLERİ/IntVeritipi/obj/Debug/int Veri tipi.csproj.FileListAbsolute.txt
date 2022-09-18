@@ -1,0 +1,7 @@
+C:\Users\90545\Desktop\int Veri tipi\bin\Debug\int Veri tipi.exe.config
+C:\Users\90545\Desktop\int Veri tipi\bin\Debug\int Veri tipi.exe
+C:\Users\90545\Desktop\int Veri tipi\bin\Debug\int Veri tipi.pdb
+C:\Users\90545\Desktop\int Veri tipi\obj\Debug\int Veri tipi.csprojAssemblyReference.cache
+C:\Users\90545\Desktop\int Veri tipi\obj\Debug\int Veri tipi.csproj.CoreCompileInputs.cache
+C:\Users\90545\Desktop\int Veri tipi\obj\Debug\int Veri tipi.exe
+C:\Users\90545\Desktop\int Veri tipi\obj\Debug\int Veri tipi.pdb
